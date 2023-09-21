@@ -1,7 +1,7 @@
 # vscode-circuitpython README
 
 This extension aspires to bring your entire CircuitPython workflow into a single
-place in VSCode.
+place in VSCode.  
 
 Inspired by [Scott Hanselman's blog
 post](https://www.hanselman.com/blog/UsingVisualStudioCodeToProgramCircuitPythonWithAnAdaFruitNeoTrellisM4.aspx)
